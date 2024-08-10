@@ -1,5 +1,5 @@
 # Run : 
-## Linix : 
+## Linux : 
 ```
 pip install -r requirements.txt
 ```
