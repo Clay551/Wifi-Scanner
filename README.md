@@ -9,7 +9,7 @@ python main.py
 ## Description :
 A tool for wifi scanning 
 ```
-Go to line 59 to set the network card
+### Go to line 59 to set the network card
 ```
 ```python
 packets = sniff(iface="wlan0", timeout=10)
