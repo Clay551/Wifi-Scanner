@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+os
+subprocess
+scapy
+scapy.all
